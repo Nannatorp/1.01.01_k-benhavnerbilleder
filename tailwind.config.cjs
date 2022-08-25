@@ -3,14 +3,14 @@ module.exports = {
   content: ["./src/**/*.{html,vue,js,ts,jsx,tsx}"],
   theme: {
     colors: {
-      farve1: "#F1F5F9",
-      farve2: "#1E293B",
-      farve3: "#DCE2F2",
-      farve4: "#626B73",
-      farve5: "#475945",
-      farve6: "#ACBFA3",
-      farve7: "#808C56",
-      farve8: "#FFFFFF",
+      lightslate: "#F1F5F9",
+      darkslate: "#1E293B",
+      pebbels: "#DCE2F2",
+      stone: "#626B73",
+      moss: "#475945",
+      fern: "#ACBFA3",
+      sage: "#808C56",
+      white: "#FFFFFF",
     },
     extend: {
       fontFamily: {
