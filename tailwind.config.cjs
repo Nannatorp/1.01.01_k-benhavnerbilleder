@@ -12,7 +12,11 @@ module.exports = {
       farve7: "#808C56",
       farve8: "#FFFFFF",
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        raleway: "’Raleway’, sans-serif",
+      },
+    },
   },
   plugins: [require("@tailwindcss/typography"), require("@tailwindcss/forms")],
 };
