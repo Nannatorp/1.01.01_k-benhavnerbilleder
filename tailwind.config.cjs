@@ -5,8 +5,8 @@ module.exports = {
     colors: {
       lightslate: "#F1F5F9",
       darkslate: "#1E293B",
-      pebbels: "#DCE2F2",
-      stone: "#626B73",
+      rose: "#A6608D",
+      blush: "#DE81BD",
       moss: "#475945",
       fern: "#ACBFA3",
       sage: "#808C56",
