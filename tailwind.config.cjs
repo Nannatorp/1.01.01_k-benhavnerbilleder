@@ -8,7 +8,6 @@ module.exports = {
       rose: "#A6608D",
       blush: "#DE81BD",
       moss: "#475945",
-      fern: "#ACBFA3",
       sage: "#808C56",
       white: "#FFFFFF",
     },
